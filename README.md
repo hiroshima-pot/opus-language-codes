@@ -22,7 +22,7 @@ One notable challenge during this project was the inconsistent and non-standard 
 
 1. Clone this repository:
 ```bash
-   git clone https://github.com/<your-username>/opus-language-codes.git
+   git clone https://github.com/hiroshima-pot/opus-language-codes.git
 ```
 
 2. Use the `language_codes.csv` file in your projects for reference or mapping.
