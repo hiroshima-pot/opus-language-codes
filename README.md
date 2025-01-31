@@ -7,6 +7,7 @@ This repository contains a comprehensive table of language codes used in the [OP
 The language codes and names were collected using Python and Selenium to scrape the OPUS results table available at:
 [https://opus.nlpl.eu/results/en&xx/corpus-result-table](https://opus.nlpl.eu/results/en&xx/corpus-result-table)  
 The `xx` part of the URL was iteratively replaced to extract data for different languages.
+
 I tried using APIs and other standard methods to retrieve the data, but it didn't work. If anyone knows the right way to do it, please let me know!
 
 ### Challenges
