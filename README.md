@@ -16,7 +16,7 @@ One notable challenge during this project was the inconsistent and non-standard 
 
 ### File Structure
 
-- **`language_codes.csv`**: The primary file, containing:
+- **`language_codes.tsv`**: The primary file, containing:
   - `Code`: The language code used in OPUS.
   - `Language Name`: The corresponding language name.
 
@@ -27,7 +27,7 @@ One notable challenge during this project was the inconsistent and non-standard 
    git clone https://github.com/hiroshima-pot/opus-language-codes.git
 ```
 
-2. Use the `language_codes.csv` file in your projects for reference or mapping.
+2. Use the `language_codes.tsv` file in your projects for reference or mapping.
 
 ### Contributions
 
